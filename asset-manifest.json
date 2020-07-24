@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Mirosoft-_Assignment/static/css/main.2891cd6e.chunk.css",
+    "main.js": "/Mirosoft-_Assignment/static/js/main.10be4c13.chunk.js",
+    "main.js.map": "/Mirosoft-_Assignment/static/js/main.10be4c13.chunk.js.map",
+    "runtime-main.js": "/Mirosoft-_Assignment/static/js/runtime-main.18fa1201.js",
+    "runtime-main.js.map": "/Mirosoft-_Assignment/static/js/runtime-main.18fa1201.js.map",
+    "static/css/2.7f6cef89.chunk.css": "/Mirosoft-_Assignment/static/css/2.7f6cef89.chunk.css",
+    "static/js/2.adfa281d.chunk.js": "/Mirosoft-_Assignment/static/js/2.adfa281d.chunk.js",
+    "static/js/2.adfa281d.chunk.js.map": "/Mirosoft-_Assignment/static/js/2.adfa281d.chunk.js.map",
+    "index.html": "/Mirosoft-_Assignment/index.html",
+    "precache-manifest.6430ea75f16b88c6adc9fdf28ddfc200.js": "/Mirosoft-_Assignment/precache-manifest.6430ea75f16b88c6adc9fdf28ddfc200.js",
+    "service-worker.js": "/Mirosoft-_Assignment/service-worker.js",
+    "static/css/2.7f6cef89.chunk.css.map": "/Mirosoft-_Assignment/static/css/2.7f6cef89.chunk.css.map",
+    "static/css/main.2891cd6e.chunk.css.map": "/Mirosoft-_Assignment/static/css/main.2891cd6e.chunk.css.map",
+    "static/js/2.adfa281d.chunk.js.LICENSE.txt": "/Mirosoft-_Assignment/static/js/2.adfa281d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18fa1201.js",
+    "static/css/2.7f6cef89.chunk.css",
+    "static/js/2.adfa281d.chunk.js",
+    "static/css/main.2891cd6e.chunk.css",
+    "static/js/main.10be4c13.chunk.js"
+  ]
+}
